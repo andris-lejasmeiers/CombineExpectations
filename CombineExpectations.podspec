@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/groue/CombineExpectations'
   s.license = { :type => 'MIT', :file => 'LICENSE' }
   s.author = { 'Gwendal Roué' => 'https://github.com/groue' }
-  s.source = { :git => 'https://github.com/groue/CombineExpectations.git', :tag => s.version.to_s }
+  s.source = { :git => 'https://github.com/andris-lejasmeiers/CombineExpectations.git', :tag => s.version.to_s }
 
   s.swift_version = '5.1'
   s.ios.deployment_target = '13.0'
